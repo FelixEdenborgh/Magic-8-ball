@@ -1,0 +1,11 @@
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\bin\Debug\Magic8ball.exe.config
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\bin\Debug\Magic8ball.exe
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\bin\Debug\Magic8ball.pdb
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.Form1.resources
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.Properties.Resources.resources
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.csproj.GenerateResource.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.exe
+C:\Users\FelixEdenborgh\Documents\CSharp\Magic8ball\Magic8ball\obj\Debug\Magic8ball.pdb
